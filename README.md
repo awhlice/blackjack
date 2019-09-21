@@ -6,7 +6,7 @@ A console-based interactive game of Blackjack
 2) Type the below commands in succession:
     - git clone https://github.com/awhlice/blackjack.git
     - cd blackjack
-	  - python ./blackjack.py
+    - python ./blackjack.py
 3) Enjoy the game!
     - For further clarification: Type ‘H’, ‘S’, or ‘Q’ into the command line when prompted to execute your desired action
 
