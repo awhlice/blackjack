@@ -14,66 +14,66 @@ A console-based interactive game of Blackjack
 
 ### First test run
 
-Let's play Blackjack!
-\------------------------------------------------------------------------------------\-
-You are holding the 9 of Clubs and 1 of Spades for a total of 10 points.
-The dealer is showing the 10 of Clubs.
+Let's play Blackjack!  
+\------------------------------------------------------------------------------------\-  
+You are holding the 9 of Clubs and 1 of Spades for a total of 10 points.  
+The dealer is showing the 10 of Clubs.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? H
-You received a 4 of Hearts. You now have a total of 14 points.
+Would you like to [H]it, [S]tand, or [Q]uit? H  
+You received a 4 of Hearts. You now have a total of 14 points.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? W
-Sorry, you can't perform that action.
+Would you like to [H]it, [S]tand, or [Q]uit? W  
+Sorry, you can't perform that action.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? S
+Would you like to [H]it, [S]tand, or [Q]uit? S  
 
-The dealer revealed their face-down card to be the King of Hearts.
+The dealer revealed their face-down card to be the King of Hearts.  
 
-To recap, you are holding the 9 of Clubs, 1 of Spades and 4 of Hearts for a total of 14 points.
-The dealer is holding the 10 of Clubs and King of Hearts for a total of 20 points.
+To recap, you are holding the 9 of Clubs, 1 of Spades and 4 of Hearts for a total of 14 points.  
+The dealer is holding the 10 of Clubs and King of Hearts for a total of 20 points.  
 
-Sorry, you lose! The dealer's hand is closer to 21.
-\------------------------------------------------------------------------------------\-
-Exiting Blackjack...
+Sorry, you lose! The dealer's hand is closer to 21.  
+\------------------------------------------------------------------------------------\-  
+Exiting Blackjack...  
 
 ### Second test run
 
-Let's play Blackjack!
-\------------------------------------------------------------------------------------\-
-You are holding the 8 of Clubs and 3 of Spades for a total of 11 points.
-The dealer is showing the 3 of Hearts.
+Let's play Blackjack!  
+\------------------------------------------------------------------------------------\-  
+You are holding the 8 of Clubs and 3 of Spades for a total of 11 points.  
+The dealer is showing the 3 of Hearts.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? H
-You received a 5 of Spades. You now have a total of 16 points.
+Would you like to [H]it, [S]tand, or [Q]uit? H  
+You received a 5 of Spades. You now have a total of 16 points.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? H
-You received a 6 of Spades. You now have a total of 22 points.
+Would you like to [H]it, [S]tand, or [Q]uit? H  
+You received a 6 of Spades. You now have a total of 22 points.  
 
-Sorry, you lose! You busted.
-\------------------------------------------------------------------------------------\-
-Exiting Blackjack...
+Sorry, you lose! You busted.  
+\------------------------------------------------------------------------------------\-  
+Exiting Blackjack...  
 
 ### Third test run
 
-Let's play Blackjack!
-\------------------------------------------------------------------------------------\-
-You are holding the 5 of Clubs and 9 of Clubs for a total of 14 points.
-The dealer is showing the 4 of Clubs.
+Let's play Blackjack!  
+\------------------------------------------------------------------------------------\-  
+You are holding the 5 of Clubs and 9 of Clubs for a total of 14 points.  
+The dealer is showing the 4 of Clubs.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? H
-You received a 7 of Spades. You now have a total of 21 points.
+Would you like to [H]it, [S]tand, or [Q]uit? H  
+You received a 7 of Spades. You now have a total of 21 points.  
 
-Would you like to [H]it, [S]tand, or [Q]uit? S
+Would you like to [H]it, [S]tand, or [Q]uit? S  
 
-The dealer revealed their face-down card to be the 9 of Hearts.
-The dealer took the Jack of Spades.
+The dealer revealed their face-down card to be the 9 of Hearts.  
+The dealer took the Jack of Spades.  
 
-To recap, you are holding the 5 of Clubs, 9 of Clubs and 7 of Spades for a total of 21 points.
-The dealer is holding the 4 of Clubs, 9 of Hearts and Jack of Spades for a total of 23 points.
+To recap, you are holding the 5 of Clubs, 9 of Clubs and 7 of Spades for a total of 21 points.  
+The dealer is holding the 4 of Clubs, 9 of Hearts and Jack of Spades for a total of 23 points.  
 
-Congratulations, you got Blackjack!
-\------------------------------------------------------------------------------------\-
-Exiting Blackjack...
+Congratulations, you got Blackjack!  
+\------------------------------------------------------------------------------------\-  
+Exiting Blackjack...  
 
 # Game rules
 - Standard rules for a game of Blackjack
