@@ -96,7 +96,7 @@ def stand(player, dealer):
 	exit()
 
 def quit():
-	print_slowly("Sad to see you go. Bye!")
+	print_slowly("Sad to see you go. Bye!\n")
 	print "-------------------------------------------------------------------------------------"
 	print_slowly("Exiting Blackjack...\n")
 	exit()
