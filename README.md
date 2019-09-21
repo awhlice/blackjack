@@ -1,4 +1,4 @@
-# blackjack
+# Blackjack
 A console-based interactive game of Blackjack
 
 # Instructions for running code
@@ -12,10 +12,10 @@ A console-based interactive game of Blackjack
 
 # Sample test runs
 
-First test run
+### First test run
 
 Let's play Blackjack!
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 You are holding the 9 of Clubs and 1 of Spades for a total of 10 points.
 The dealer is showing the 10 of Clubs.
 
@@ -33,13 +33,13 @@ To recap, you are holding the 9 of Clubs, 1 of Spades and 4 of Hearts for a tota
 The dealer is holding the 10 of Clubs and King of Hearts for a total of 20 points.
 
 Sorry, you lose! The dealer's hand is closer to 21.
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 Exiting Blackjack...
 
-Second test run
+### Second test run
 
 Let's play Blackjack!
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 You are holding the 8 of Clubs and 3 of Spades for a total of 11 points.
 The dealer is showing the 3 of Hearts.
 
@@ -50,13 +50,13 @@ Would you like to [H]it, [S]tand, or [Q]uit? H
 You received a 6 of Spades. You now have a total of 22 points.
 
 Sorry, you lose! You busted.
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 Exiting Blackjack...
 
-Third test run
+### Third test run
 
 Let's play Blackjack!
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 You are holding the 5 of Clubs and 9 of Clubs for a total of 14 points.
 The dealer is showing the 4 of Clubs.
 
@@ -72,10 +72,10 @@ To recap, you are holding the 5 of Clubs, 9 of Clubs and 7 of Spades for a total
 The dealer is holding the 4 of Clubs, 9 of Hearts and Jack of Spades for a total of 23 points.
 
 Congratulations, you got Blackjack!
--------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------\-
 Exiting Blackjack...
 
-# Blackjack rules
+# Game rules
 - Standard rules for a game of Blackjack
     - Omitted the double down and split options for the player in order to finish under 3 hours (the game does not implement the option to place bets)
 
