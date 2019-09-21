@@ -76,8 +76,8 @@ Congratulations, you got Blackjack!
 Exiting Blackjack...  
 
 # Game rules
-- Standard rules for a game of Blackjack
-    - Omitted the double down and split options for the player in order to finish under 3 hours (the game does not implement the option to place bets)
+- Standard Blackjack game rules
+    - I omitted the double down and split options for the player in order to finish under 3 hours (the game does not implement the option to place bets)
 
 # Explanation of design choices
 The program is centered on the Player, Card, and Deck class, since I knew that these objects, once created, would be passed around frequently in my code. The attributes of each class are intuitive: The Card class contains the value and suit of the card at hand, while the Player class contains the player’s current hand as well as a function that calculates the amount of points they possess based on their hand. The Deck class is essentially an array of Card objects, but I included an initialization function within the class, so that it would be ready to use as soon as it was instantiated.
