@@ -2,7 +2,7 @@
 A console-based interactive game of Blackjack
 
 # Instructions for running code
-1) Open command line
+1) Open the command line
 2) Type the below commands in succession:
     - git clone https://github.com/awhlice/blackjack.git
     - cd blackjack
